@@ -1,0 +1,26 @@
+[
+  {
+    "id": "AUDIO_01",
+    "phraseId": "P121",
+    "hindiFile": "hindi_1.wav",
+    "santaliFile": "santali_1.wav"
+  },
+  {
+    "id": "AUDIO_02",
+    "phraseId": "P122",
+    "hindiFile": "hindi_2.wav",
+    "santaliFile": "santali_2.wav"
+  },
+  {
+    "id": "AUDIO_03",
+    "phraseId": "P123",
+    "hindiFile": "hindi_3.wav",
+    "santaliFile": "santali_3.wav"
+  },
+  {
+    "id": "AUDIO_04",
+    "phraseId": "P124",
+    "hindiFile": "hindi_4.wav",
+    "santaliFile": "santali_4.wav"
+  }
+]

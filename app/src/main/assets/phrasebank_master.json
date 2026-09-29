@@ -1,0 +1,1202 @@
+[
+  {
+    "id": "P001",
+    "hindi": "सुप्रभात बच्चों!",
+    "santali": "ᱥᱟᱹᱜᱩᱱ ᱥᱮᱛᱟᱜ, ᱜᱤᱫᱽᱨᱟᱹ ᱠᱚ!",
+    "santali_translit": "Sagun setah, gidra ko!",
+    "category": "check-in",
+    "fln_component": "Oral Language Development",
+    "source": "bhashini_web_manual",
+    "verified": false
+  },
+  {
+    "id": "P002",
+    "hindi": "कृपया बैठ जाइए।",
+    "santali": "ᱫᱩᱲᱩᱵ ᱯᱮ, ᱫᱟᱭᱟ ᱠᱟᱛᱮ",
+    "santali_translit": "Durup pe, daya kate.",
+    "category": "check-in",
+    "fln_component": "Oral Language Development",
+    "source": "bhashini_web_manual",
+    "verified": false
+  },
+  {
+    "id": "P003",
+    "hindi": "अपने बैग करीने से रखो।",
+    "santali": "ᱵᱮᱜᱽ ᱱᱟᱯᱟᱭ ᱛᱮ ᱫᱚᱦᱚᱭ ᱯᱮ",
+    "santali_translit": "Bag napay te dohoy pe.",
+    "category": "check-in",
+    "fln_component": "Oral Language Development",
+    "source": "bhashini_web_manual",
+    "verified": false
+  },
+  {
+    "id": "P004",
+    "hindi": "अपनी पानी की बोतलें निकालो और साइड में रखो।",
+    "santali": "ᱟᱯᱱᱟᱨᱟᱜ ᱫᱟᱜ ᱵᱚᱛᱚᱞ ᱚᱰᱚᱠ ᱯᱮ ᱟᱨ ᱫᱷᱟᱨᱮ ᱨे ᱫᱚᱦᱚᱭ ᱯᱮ",
+    "santali_translit": "Apnarag dag botol odok pe aar dhare re dohoy pe.",
+    "category": "check-in",
+    "fln_component": "Oral Language Development",
+    "source": "bhashini_web_manual",
+    "verified": false
+  },
+  {
+    "id": "P005",
+    "hindi": "चलो, अब हाज़िरी लेते हैं।",
+    "santali": "ᱫᱮᱞᱟ, ᱱᱤᱛᱚᱜ ᱦᱟᱡᱤᱨᱤ ᱵᱚᱱ ᱦᱟᱛᱟᱣᱟ",
+    "santali_translit": "Dela, nitog hajiri bon hatawa.",
+    "category": "check-in",
+    "fln_component": "Oral Language Development",
+    "source": "bhashini_web_manual",
+    "verified": false
+  },
+  {
+    "id": "P006",
+    "hindi": "जब तुम्हारा नाम सुनो तो 'प्रेज़ेंट मैम' कहो।",
+    "santali": "ᱡᱚᱠᱷᱚᱱ ᱟᱯᱱᱟᱨᱟᱜ ᱧᱩᱛᱩᱢ ᱯᱮ ᱟᱸᱡᱚᱢᱟ, ᱩᱱ ᱡᱚᱠᱷᱚᱱ 'Present Ma'am' ᱢᱮᱱ ᱯᱮ",
+    "santali_translit": "Jokhon apnarag nyutum pe anjoma, un jokhon 'Present Ma'am' men pe.",
+    "category": "check-in",
+    "fln_component": "Oral Language Development",
+    "source": "bhashini_web_manual",
+    "verified": false
+  },
+  {
+    "id": "P007",
+    "hindi": "आज कौन अनुपस्थित है?",
+    "santali": "ᱛᱮᱦᱮᱧ ᱫᱚ ᱚᱠᱚᱭ ᱵᱟᱹᱱᱩᱜ ᱮᱭᱟ?",
+    "santali_translit": "Tehenj do okoy banug eya?",
+    "category": "check-in",
+    "fln_component": "Oral Language Development",
+    "source": "bhashini_web_manual",
+    "verified": false
+  },
+  {
+    "id": "P008",
+    "hindi": "क्या सबने नाश्ता किया?",
+    "santali": "ᱪᱮᱫ ᱡᱚᱛᱚ ᱦᱚᱲ ᱥᱮᱛᱟᱜ ᱡᱚᱢᱟᱜ ᱯᱮ ᱡᱚᱢ ᱠᱮᱫᱼᱟ?",
+    "santali_translit": "Ched joto hor setag jomag pe jom ked-a?",
+    "category": "check-in",
+    "fln_component": "Oral Language Development",
+    "source": "bhashini_web_manual",
+    "verified": false
+  },
+  {
+    "id": "P009",
+    "hindi": "अपनी डायरी खोलो।",
+    "santali": "ᱟᱯᱱᱟᱨᱟᱜ ᱰᱟᱭᱨᱤ ᱡᱷᱤᱡ ᱯᱮ",
+    "santali_translit": "Apnarag diary jhij pe.",
+    "category": "check-in",
+    "fln_component": "Oral Language Development",
+    "source": "bhashini_web_manual",
+    "verified": false
+  },
+  {
+    "id": "P010",
+    "hindi": "यहाँ देखो!",
+    "santali": "ᱱᱚᱸᱰᱮ ᱠᱚᱭᱚᱜ ᱯᱮ!",
+    "santali_translit": "Nonde koyog pe!",
+    "category": "check-in",
+    "fln_component": "Oral Language Development",
+    "source": "bhashini_web_manual",
+    "verified": false
+  },
+  {
+    "id": "P011",
+    "hindi": "बोर्ड की तरफ देखो।",
+    "santali": "ᱵᱚᱨᱰ ᱥᱮᱫ ᱠᱚᱭᱚᱜ ᱯᱮ",
+    "santali_translit": "Board sed koyog pe.",
+    "category": "check-in",
+    "fln_component": "Oral Language Development",
+    "source": "bhashini_web_manual",
+    "verified": false
+  },
+  {
+    "id": "P012",
+    "hindi": "आँखें मुझ पर, हाथ गोद में रखो।",
+    "santali": "ᱢᱮᱫ ᱤᱧ ᱥᱮᱫ, ᱛᱤ ᱫᱚ ᱦᱚᱵᱚᱨ ᱨᱮ ᱫᱚᱦᱚᱭ ᱯᱮ",
+    "santali_translit": "Med in sed, ti do hobor re dohoy pe.",
+    "category": "check-in",
+    "fln_component": "Oral Language Development",
+    "source": "bhashini_web_manual",
+    "verified": false
+  },
+  {
+    "id": "P013",
+    "hindi": "हाथ जोड़कर सीधे बैठो।",
+    "santali": "ᱛᱤ ᱡᱚᱲᱟᱣ ᱠᱟᱛᱮ ᱥᱚᱡᱷᱮ ᱫᱩᱲᱩᱵ ᱯᱮ",
+    "santali_translit": "Ti joraw kate sojhe durup pe.",
+    "category": "check-in",
+    "fln_component": "Oral Language Development",
+    "source": "bhashini_web_manual",
+    "verified": false
+  },
+  {
+    "id": "P014",
+    "hindi": "उंगली होंठों पर रखो—श्श्श!",
+    "santali": "ᱞᱩᱴᱤ ᱨᱮ ᱠᱟᱹᱴᱩᱵ ᱫᱚᱦᱚᱭ ᱯᱮ — ᱥᱥᱥ!",
+    "santali_translit": "Luti re katub dohoy pe — Sss!",
+    "category": "check-in",
+    "fln_component": "Oral Language Development",
+    "source": "bhashini_web_manual",
+    "verified": false
+  },
+  {
+    "id": "P015",
+    "hindi": "शोर मत करो।",
+    "santali": "ᱞᱩᱴᱤ ᱨᱮ ᱠᱟᱹᱴᱩᱵ ᱫᱚᱦᱚᱭ ᱯᱮ — ᱥᱥᱥ!",
+    "santali_translit": "Alo pe hullaya.",
+    "category": "check-in",
+    "fln_component": "Oral Language Development",
+    "source": "bhashini_web_manual",
+    "verified": false
+  },
+  {
+    "id": "P016",
+    "hindi": "ध्यान से सुनो।",
+    "santali": "ᱫᱷᱮᱭᱟᱱ ᱛᱮ ᱟᱸᱡᱚᱢ ᱯᱮ",
+    "santali_translit": "Dhyan te anjom pe.",
+    "category": "check-in",
+    "fln_component": "Oral Language Development",
+    "source": "bhashini_web_manual",
+    "verified": false
+  },
+  {
+    "id": "P017",
+    "hindi": "सब लोग शांत हो जाओ!",
+    "santali": "ᱡᱚᱛᱚ ᱦᱚᱲ ᱛᱷᱤᱨ ᱠᱚᱜ ᱯᱮ!",
+    "santali_translit": "Joto hor thir kog pe!",
+    "category": "check-in",
+    "fln_component": "Oral Language Development",
+    "source": "bhashini_web_manual",
+    "verified": false
+  },
+  {
+    "id": "P018",
+    "hindi": "अब बात करना बंद करो।",
+    "santali": "ᱱᱤᱛᱚᱜ ᱜᱟᱞᱢᱟᱨᱟᱣ ᱵᱚᱱᱫᱚᱭ ᱯᱮ",
+    "santali_translit": "Nitog galmaraw bondoy pe.",
+    "category": "check-in",
+    "fln_component": "Oral Language Development",
+    "source": "bhashini_web_manual",
+    "verified": false
+  },
+  {
+    "id": "P019",
+    "hindi": "अपनी किताब पन्ना नंबर [X] पर खोलो।",
+    "santali": "ᱯᱩᱛᱷᱤ ᱥᱟᱠᱟᱢ ᱮᱞ/ᱯᱮᱡᱽ ᱱᱚᱢᱵᱚᱨ [X] ᱨᱮ ᱡᱷᱤᱡ ᱯᱮ",
+    "santali_translit": "Apnarag puthi sakam el/page number [X] re jhij pe.",
+    "category": "check-in",
+    "fln_component": "Oral Language Development",
+    "source": "bhashini_web_manual",
+    "verified": false
+  },
+  {
+    "id": "P020",
+    "hindi": "अपनी पेंसिल और रबड़ निकालो।",
+    "santali": "ᱯᱮᱱᱥᱤᱞ ᱟᱨ ᱨᱟᱵᱟᱰ ᱚᱰᱚᱠ ᱯᱮ",
+    "santali_translit": "Apnarag pencil aar rubber odok pe.",
+    "category": "check-in",
+    "fln_component": "Oral Language Development",
+    "source": "bhashini_web_manual",
+    "verified": false
+  },
+  {
+    "id": "P021",
+    "hindi": "जैसे मैं पढ़ूँ, अपनी उंगली शब्द के नीचे रखो।",
+    "santali": "ᱡᱮᱞᱮᱠᱟᱧ ᱯᱟᱲᱦᱟᱣᱮᱫ-ᱟ, ᱟᱯᱱᱟᱨᱟᱜ ᱠᱟᱹᱴᱩᱵ ᱥᱟᱵᱟᱫ ᱞᱟᱛᱟᱨ ᱨᱮ ᱫᱚᱦᱚᱭ ᱯᱮ",
+    "santali_translit": "Jelekany padhawed-a, apnarag katub sabad latar re dohoy pe.",
+    "category": "check-in",
+    "fln_component": "Oral Language Development",
+    "source": "bhashini_web_manual",
+    "verified": false
+  },
+  {
+    "id": "P022",
+    "hindi": "मेरे पीछे दोहराओ।",
+    "santali": "ᱤᱧ ᱛᱟᱭᱚᱢ ᱛᱟᱭᱚᱢ ᱛᱮ ᱢᱮᱱ ᱯᱮ",
+    "santali_translit": "In tayom tayom te men pe.",
+    "category": "check-in",
+    "fln_component": "Oral Language Development",
+    "source": "bhashini_web_manual",
+    "verified": false
+  },
+  {
+    "id": "P023",
+    "hindi": "इसे ज़ोर से पढ़ो।",
+    "santali": "ᱱᱚᱣᱟ ᱡᱚᱨ ᱛे ᱯᱟᱲᱦᱟᱣ ᱯᱮ",
+    "santali_translit": "Nowa jor te padhaw pe.",
+    "category": "check-in",
+    "fln_component": "Oral Language Development",
+    "source": "bhashini_web_manual",
+    "verified": false
+  },
+  {
+    "id": "P024",
+    "hindi": "यह अक्षर कैसी आवाज़ करता है?",
+    "santali": "ᱱᱚᱣᱟ ᱚᱞ/ᱟᱠᱷᱚᱨ ᱫᱚ ᱪᱮᱫ ᱞᱮᱠᱟ ᱥᱟᱰᱮᱭᱟ?",
+    "santali_translit": "Nowa ol/akhor do ched leka sadeya?",
+    "category": "check-in",
+    "fln_component": "Oral Language Development",
+    "source": "bhashini_web_manual",
+    "verified": false
+  },
+  {
+    "id": "P025",
+    "hindi": "साफ-सुथरा लिखो। बिगाड़ो मत।",
+    "santali": "ᱥᱟᱯᱷᱟ-ᱥᱟᱯᱷᱟ ᱚᱞ ᱢᱮ, ᱟᱞᱚᱢ ᱵᱟᱹᱲᱤᱡᱟ",
+    "santali_translit": "Sapha-sapha ol me, alom barija.",
+    "category": "check-in",
+    "fln_component": "Oral Language Development",
+    "source": "bhashini_web_manual",
+    "verified": false
+  },
+  {
+    "id": "P026",
+    "hindi": "इस तस्वीर को देखो। तुम्हें क्या दिख रहा है?",
+    "santali": "ᱱᱚᱣᱟ ᱪᱤᱛᱟᱹᱨ ᱠᱚᱭᱚᱜ ᱢᱮ, ᱪᱮᱫ ᱧᱮᱞᱚᱜ ᱠᱟᱱᱟ?",
+    "santali_translit": "Nowa chitar koyog me, ched nyelog kana?",
+    "category": "check-in",
+    "fln_component": "Oral Language Development",
+    "source": "bhashini_web_manual",
+    "verified": false
+  },
+  {
+    "id": "P027",
+    "hindi": "इसके बारे में मुझे एक कहानी सुनाओ।",
+    "santali": "ᱱᱚᱣᱟ ᱵᱟᱵᱚᱛ ᱛᱮ ᱤᱧ ᱢᱤᱫᱴᱟᱹᱝ ᱠᱟᱹᱦᱱᱤ ᱞᱟᱹᱭ ᱟᱹᱧ ᱢᱮ",
+    "santali_translit": "Nowa babot te in midtang kahni lay any me.",
+    "category": "check-in",
+    "fln_component": "Oral Language Development",
+    "source": "bhashini_web_manual",
+    "verified": false
+  },
+  {
+    "id": "P028",
+    "hindi": "अक्षरों को धीरे-धीरे ट्रेस करो।",
+    "santali": "ᱚᱞ ᱠᱚ ᱵᱟᱹᱭ-ᱵᱟᱹᱭ ᱛᱮ ᱪᱮᱛᱟᱱ ᱨᱮ ᱚᱞ ᱢᱮ",
+    "santali_translit": "Ol ko bay-bay te chetan re ol me.",
+    "category": "check-in",
+    "fln_component": "Oral Language Development",
+    "source": "bhashini_web_manual",
+    "verified": false
+  },
+  {
+    "id": "P029",
+    "hindi": "चलो साथ में गिनती करते हैं।",
+    "santali": "ᱫᱮᱞᱟ ᱥᱟᱶᱛᱮ ᱵᱚᱱ ᱞᱮᱠᱷᱟᱭᱟ",
+    "santali_translit": "Dela sawte bon lekhaya.",
+    "category": "check-in",
+    "fln_component": "Oral Language Development",
+    "source": "bhashini_web_manual",
+    "verified": false
+  },
+  {
+    "id": "P030",
+    "hindi": "मुझे उंगलियाँ दिखाओ।",
+    "santali": "ᱤᱧ ᱠᱟᱹᱴᱩᱵ ᱩᱫᱩᱜ ᱟᱹᱧ ᱯᱮ",
+    "santali_translit": "In katub udug any pe.",
+    "category": "check-in",
+    "fln_component": "Oral Language Development",
+    "source": "bhashini_web_manual",
+    "verified": false
+  },
+  {
+    "id": "P031",
+    "hindi": "इसके बाद कौन सी संख्या आती है?",
+    "santali": "ᱱᱚᱣᱟ ᱛᱟᱭᱚᱢ ᱫᱚ ᱚᱠᱟ ᱞᱮᱠᱷᱟ/ᱮᱞ ᱦᱤᱡᱩᱜ-ᱟ?",
+    "santali_translit": "Nowa tayom do oka lekha/el hijug-a?",
+    "category": "check-in",
+    "fln_component": "Oral Language Development",
+    "source": "bhashini_web_manual",
+    "verified": false
+  },
+  {
+    "id": "P032",
+    "hindi": "किस डिब्बे में ज़्यादा चॉकलेट हैं?",
+    "santali": "ᱚᱠᱟ ᱰᱤᱵᱽᱞᱟᱹ ᱨᱮ ᱵᱟᱹᱲᱛᱤ ᱪᱚᱠᱞᱮᱴ ᱢᱮᱱᱟᱜ-ᱟ?",
+    "santali_translit": "Oka dibla re barti chocolate menag-a?",
+    "category": "check-in",
+    "fln_component": "Oral Language Development",
+    "source": "bhashini_web_manual",
+    "verified": false
+  },
+  {
+    "id": "P033",
+    "hindi": "अपनी कॉपी में तीन गेंदें बनाओ।",
+    "santali": "ᱢᱤᱫᱴᱟᱹᱝ ᱠᱷᱟᱛᱟ ᱨᱮ ᱯᱮᱭᱟ ᱵᱚᱞ ᱵᱮᱱᱟᱣ ᱢᱮ",
+    "santali_translit": "Apnarag khata re peya ball benaw me.",
+    "category": "check-in",
+    "fln_component": "Oral Language Development",
+    "source": "bhashini_web_manual",
+    "verified": false
+  },
+  {
+    "id": "P034",
+    "hindi": "यह घड़ी किस आकार की है?",
+    "santali": "ᱱᱚᱣᱟ ᱜᱷᱩᱲᱤ ᱫᱚ ᱪᱮᱫ ᱞᱮᱠᱟन ᱨᱩᱯ ᱨᱮᱱᱟᱜ ᱠᱟᱱᱟ?",
+    "santali_translit": "Nowa ghuri do ched lekan rup renag kana?",
+    "category": "check-in",
+    "fln_component": "Oral Language Development",
+    "source": "bhashini_web_manual",
+    "verified": false
+  },
+  {
+    "id": "P035",
+    "hindi": "अपनी मेज़ पर रखे ब्लॉक्स गिनो।",
+    "santali": "ᱴᱮᱵᱩᱞ ᱨᱮ ᱫᱚᱦᱚ ᱟᱠᱟᱱ ᱵᱽᱞᱚᱠᱥ ᱞᱮᱠᱷᱟᱭ ᱢᱮ",
+    "santali_translit": "Apnarag table re doho akan blocks lekhay me.",
+    "category": "check-in",
+    "fln_component": "Oral Language Development",
+    "source": "bhashini_web_manual",
+    "verified": false
+  },
+  {
+    "id": "P036",
+    "hindi": "अपनी कुर्सी/चटाई पर ठीक से बैठो।",
+    "santali": "ᱢᱟᱹᱪᱤ/ᱯᱟᱹᱴᱤ ᱨᱮ ᱴᱷᱤᱠ ᱛᱮ ᱫᱩᱲᱩᱵ ᱯᱮ",
+    "santali_translit": "Apnarag machi/pati re thik te durup pe.",
+    "category": "check-in",
+    "fln_component": "Oral Language Development",
+    "source": "bhashini_web_manual",
+    "verified": false
+  },
+  {
+    "id": "P037",
+    "hindi": "क्लासरूम के अंदर मत भागो।",
+    "santali": "ᱠᱞᱟᱥᱨᱩᱢ ᱵᱷᱤᱛᱤᱨ ᱨᱮ ᱟᱞᱚ ᱯᱮ ᱫᱟᱹᱲᱟ",
+    "santali_translit": "Classroom bhitir re alo pe dara.",
+    "category": "check-in",
+    "fln_component": "Oral Language Development",
+    "source": "bhashini_web_manual",
+    "verified": false
+  },
+  {
+    "id": "P038",
+    "hindi": "सीधी लाइन में खड़े हो जाओ।",
+    "santali": "ᱥᱚजᱷᱮ ᱞᱟᱭᱤᱱ ᱨᱮ ᱛᱤᱸᱜᱩᱱ ᱯᱮ",
+    "santali_translit": "Sojhe line re tingun pe.",
+    "category": "check-in",
+    "fln_component": "Oral Language Development",
+    "source": "bhashini_web_manual",
+    "verified": false
+  },
+  {
+    "id": "P039",
+    "hindi": "अपने दोस्तों को धक्का मत दो।",
+    "santali": "ᱜᱟᱛᱮ ᱠᱚ ᱟᱞᱚ ᱯᱮ ᱴᱷᱮᱞᱟᱣ ᱠᱚᱣᱟ",
+    "santali_translit": "Apnar gate ko alo pe thelaw kowa.",
+    "category": "check-in",
+    "fln_component": "Oral Language Development",
+    "source": "bhashini_web_manual",
+    "verified": false
+  },
+  {
+    "id": "P040",
+    "hindi": "अपनी बारी का इंतज़ार करो।",
+    "santali": "ᱵᱟᱹᱨᱤ ᱛᱟᱸᱜᱤ ᱯᱮ",
+    "santali_translit": "Apnarag bari tangi pe.",
+    "category": "check-in",
+    "fln_component": "Oral Language Development",
+    "source": "bhashini_web_manual",
+    "verified": false
+  },
+  {
+    "id": "P041",
+    "hindi": "इसे उनके साथ बाँटो।",
+    "santali": "ᱱᱚᱣᱟ ᱩᱱᱠᱩ ᱥᱟᱶ ᱦᱟᱹᱴᱤᱧ ᱢᱮ",
+    "santali_translit": "Nowa unku saw hatinj me.",
+    "category": "check-in",
+    "fln_component": "Oral Language Development",
+    "source": "bhashini_web_manual",
+    "verified": false
+  },
+  {
+    "id": "P042",
+    "hindi": "अपने बैग पैक करो।",
+    "santali": "ᱡᱷᱚᱞᱟ ᱥᱟᱢᱴᱟᱣ ᱯᱮ",
+    "santali_translit": "Apnarag jhola samtaw pe.",
+    "category": "check-in",
+    "fln_component": "Oral Language Development",
+    "source": "bhashini_web_manual",
+    "verified": false
+  },
+  {
+    "id": "P043",
+    "hindi": "वॉशरूम/लंच के लिए लाइन में लग जाओ।",
+    "santali": "ᱨᱟᱪᱟ/ᱞᱟᱸᱪ ᱞᱟᱹᱜᱤᱫ ᱞᱟᱭᱤᱱ ᱨᱮ ᱛᱤᱸᱜᱩᱱ ᱯᱮ",
+    "santali_translit": "Racha/lunch lagid line re tingun pe.",
+    "category": "check-in",
+    "fln_component": "Oral Language Development",
+    "source": "bhashini_web_manual",
+    "verified": false
+  },
+  {
+    "id": "P044",
+    "hindi": "फर्श से कागज़ उठाओ और कूड़ेदान में फेंको।",
+    "santali": "ᱞᱟᱛᱟᱨ ᱠᱷᱚᱱ ᱠᱟᱜᱚᱡᱽ ᱨᱟᱠᱟᱵ ᱢᱮ ᱟᱨ ᱡᱟᱵᱽᱨᱟ ᱰᱤᱵᱽᱞᱟᱹ ᱨᱮ ᱜᱤᱰᱤ ᱢᱮ",
+    "santali_translit": "Latar khon kagoz rakab me aar jabra dibla re gidi me.",
+    "category": "check-in",
+    "fln_component": "Oral Language Development",
+    "source": "bhashini_web_manual",
+    "verified": false
+  },
+  {
+    "id": "P045",
+    "hindi": "बहुत बढ़िया! शाबाश! सब लोग [नाम] के लिए ताली बजाओ!",
+    "santali": "ᱩᱰᱤ ᱱᱟᱯᱟᱭ! ᱥᱟᱵᱟᱥ! ᱡᱚᱛᱚ ᱦᱚᱲ [Name] ᱞᱟᱹᱜᱤᱫ ᱛᱷᱟᱹᱭᱚ ᱯᱮ!",
+    "santali_translit": "Adi napay! Sabas! Joto hor [Name] lagid thayo pe!",
+    "category": "check-in",
+    "fln_component": "Oral Language Development",
+    "source": "bhashini_web_manual",
+    "verified": false
+  },
+  {
+    "id": "P046",
+    "hindi": "अच्छी कोशिश! एक बार और कोशिश करो।",
+    "santali": "ᱱᱟᱯᱟᱭ ᱠᱩᱨᱩᱢᱩᱴᱩ! ᱟᱨ ᱢᱤᱫᱫᱷᱟᱣ ᱪᱮᱥᱴᱟ ᱢᱮ",
+    "santali_translit": "Napay kurumutu! Aar middhaw chesta me.",
+    "category": "check-in",
+    "fln_component": "Oral Language Development",
+    "source": "bhashini_web_manual",
+    "verified": false
+  },
+  {
+    "id": "P047",
+    "hindi": "शानदार काम! आज तुम्हें एक स्टार मिलेगा।",
+    "santali": "ᱩᱰᱤ ᱱᱟᱯᱟᱭ ᱠᱟᱹᱢᱤ! ᱛᱮᱦᱮᱧ ᱟᱢ ᱢᱤᱫᱴᱟᱹᱝ ᱥᱴᱟᱨ ᱮᱢ ᱧᱟᱢᱟ",
+    "santali_translit": "Adi napay kami! Tehenj am midtang star em nyama.",
+    "category": "check-in",
+    "fln_component": "Oral Language Development",
+    "source": "bhashini_web_manual",
+    "verified": false
+  },
+  {
+    "id": "P048",
+    "hindi": "सुंदर लिखावट!",
+    "santali": "ᱩᱰᱤ ᱪᱚᱨᱚᱠ ᱚᱞ!",
+    "santali_translit": "Adi chorok ol!",
+    "category": "check-in",
+    "fln_component": "Oral Language Development",
+    "source": "bhashini_web_manual",
+    "verified": false
+  },
+  {
+    "id": "P049",
+    "hindi": "क्या तुम समझ गए?",
+    "santali": "ᱪᱮᱫ ᱯᱮ ᱵᱩᱡᱷᱟᱹᱣ ᱠᱮᱫ-ᱟ?",
+    "santali_translit": "Ched pe bujhaw ked-a?",
+    "category": "check-in",
+    "fln_component": "Oral Language Development",
+    "source": "bhashini_web_manual",
+    "verified": false
+  },
+  {
+    "id": "P050",
+    "hindi": "कोई शंका है?",
+    "santali": "ᱪᱮᱫ ᱠᱩᱠᱞᱤ ᱢᱮᱱᱟᱜ-ᱟ?",
+    "santali_translit": "Ched kukli menag-a?",
+    "category": "check-in",
+    "fln_component": "Oral Language Development",
+    "source": "bhashini_web_manual",
+    "verified": false
+  },
+  {
+    "id": "P051",
+    "hindi": "अगर जवाब पता है तो हाथ उठाओ।",
+    "santali": "ᱡᱩᱫᱤ ᱛᱮᱞᱟ/ᱞᱟᱹᱱᱟᱹᱭ ᱯᱮ ᱵᱟᱰᱟᱭᱟ, ᱛᱚᱵᱮ ᱛᱤ ᱛᱩᱞ ᱯᱮ",
+    "santali_translit": "Judi tela/lanay pe badaya, tobe ti tul pe.",
+    "category": "check-in",
+    "fln_component": "Oral Language Development",
+    "source": "bhashini_web_manual",
+    "verified": false
+  },
+  {
+    "id": "P052",
+    "hindi": "धन्यवाद।",
+    "santali": "ᱥᱟᱨᱦᱟᱣ",
+    "santali_translit": "Sarhaw.",
+    "category": "check-in",
+    "fln_component": "Oral Language Development",
+    "source": "bhashini_web_manual",
+    "verified": false
+  },
+  {
+    "id": "P053",
+    "hindi": "शुभ दोपहर।",
+    "santali": "ᱥᱟᱹᱜᱩᱱ ᱴᱤᱠᱤᱱ",
+    "santali_translit": "Sagun tikin.",
+    "category": "check-in",
+    "fln_component": "Oral Language Development",
+    "source": "bhashini_web_manual",
+    "verified": false
+  },
+  {
+    "id": "P054",
+    "hindi": "तुम सब कैसे हो?",
+    "santali": "ᱪᱮᱫ ᱞᱮᱠᱟ ᱢᱮᱱᱟᱜ ᱯᱮᱭᱟ?",
+    "santali_translit": "Chet leka menag peya?",
+    "category": "check-in",
+    "fln_component": "Oral Language Development",
+    "source": "bhashini_web_manual",
+    "verified": false
+  },
+  {
+    "id": "P055",
+    "hindi": "भगवान को धन्यवाद कहो।",
+    "santali": "ᱪᱟᱸᱫᱚ ᱵᱚᱸᱜᱟ ᱥᱟᱨᱦᱟᱣ ᱮᱢᱟᱭ ᱯᱮ",
+    "santali_translit": "Chando bonga sarhaw emay pe.",
+    "category": "check-in",
+    "fln_component": "Oral Language Development",
+    "source": "bhashini_web_manual",
+    "verified": false
+  },
+  {
+    "id": "P056",
+    "hindi": "प्रार्थना करो।",
+    "santali": "ᱱᱮᱦᱚᱨ ᱯᱮ",
+    "santali_translit": "Nehor pe.",
+    "category": "check-in",
+    "fln_component": "Oral Language Development",
+    "source": "bhashini_web_manual",
+    "verified": false
+  },
+  {
+    "id": "P057",
+    "hindi": "अपनी आँखें बंद करो।",
+    "santali": "ᱢᱮᱫ ᱡᱟᱹᱯᱤᱫ ᱯᱮ",
+    "santali_translit": "Apnarag med japid pe.",
+    "category": "check-in",
+    "fln_component": "Oral Language Development",
+    "source": "bhashini_web_manual",
+    "verified": false
+  },
+  {
+    "id": "P058",
+    "hindi": "गहरी साँस लो।",
+    "santali": "ᱡᱤᱞᱤᱧ ᱥᱟᱦᱮᱫ ᱦᱟᱛᱟᱣ ᱯᱮ",
+    "santali_translit": "Jilinj sahed hataw pe.",
+    "category": "check-in",
+    "fln_component": "Oral Language Development",
+    "source": "bhashini_web_manual",
+    "verified": false
+  },
+  {
+    "id": "P059",
+    "hindi": "लिखो और अभ्यास करो।",
+    "santali": "ᱞ ᱢᱮ ᱟᱨ ᱚᱵᱷᱭᱟᱥ ᱢᱮ",
+    "santali_translit": "Ol me aar obhyas me.",
+    "category": "check-in",
+    "fln_component": "Oral Language Development",
+    "source": "bhashini_web_manual",
+    "verified": false
+  },
+  {
+    "id": "P060",
+    "hindi": "ज़ोर से बोलो।",
+    "santali": "ᱡᱚᱨ ᱛᱮ ᱨᱚᱲ ᱯᱮ",
+    "santali_translit": "Jor te ror pe.",
+    "category": "check-in",
+    "fln_component": "Oral Language Development",
+    "source": "bhashini_web_manual",
+    "verified": false
+  },
+  {
+    "id": "P061",
+    "hindi": "मेरे साथ गाओ।",
+    "santali": "ᱤᱧ ᱥᱟᱶᱛᱮ ᱥᱮᱨᱮᱧ ᱯᱮ",
+    "santali_translit": "In sawte serenj pe.",
+    "category": "check-in",
+    "fln_component": "Oral Language Development",
+    "source": "bhashini_web_manual",
+    "verified": false
+  },
+  {
+    "id": "P062",
+    "hindi": "पानी पियो।",
+    "santali": "ᱫᱟᱜ ᱧᱩᱭ ᱯᱮ",
+    "santali_translit": "Dag nyuy pe.",
+    "category": "check-in",
+    "fln_component": "Oral Language Development",
+    "source": "bhashini_web_manual",
+    "verified": false
+  },
+  {
+    "id": "P063",
+    "hindi": "तुम्हारा नाम क्या है?",
+    "santali": "ᱢᱟᱜ ᱧᱩᱛᱩᱢ ᱫᱚ ᱪᱮᱫ?",
+    "santali_translit": "Amag nyutum do ched?",
+    "category": "check-in",
+    "fln_component": "Oral Language Development",
+    "source": "bhashini_web_manual",
+    "verified": false
+  },
+  {
+    "id": "P064",
+    "hindi": "तुम्हारे माता-पिता का नाम क्या है?",
+    "santali": "ᱭᱳ-ᱵᱟᱵᱟ ᱦᱟᱜ ᱧᱩᱛᱩᱢ ᱫᱚ ᱪᱮᱫ?",
+    "santali_translit": "Ayo-baba hag nyutum do ched?",
+    "category": "check-in",
+    "fln_component": "Oral Language Development",
+    "source": "bhashini_web_manual",
+    "verified": false
+  },
+  {
+    "id": "P065",
+    "hindi": "तुम्हारा पसंदीदा कार्टून कौन सा है?",
+    "santali": "ᱢᱟᱜ ᱠᱩᱥᱤᱭᱟᱜ ᱠᱟᱨᱴᱩᱱ ᱫᱚ ᱚᱠᱟᱴᱟᱜ ᱠᱟᱱᱟ?",
+    "santali_translit": "Amag kusiyag cartoon do okatag kana?",
+    "category": "check-in",
+    "fln_component": "Oral Language Development",
+    "source": "bhashini_web_manual",
+    "verified": false
+  },
+  {
+    "id": "P066",
+    "hindi": "तुम्हारा सपना क्या है?",
+    "santali": "ᱢᱟᱜ ᱠᱩᱠᱢᱩ ᱫᱚ ᱪᱮᱫ ᱠᱟᱱᱟ?",
+    "santali_translit": "Amag kukmu do ched kana?",
+    "category": "check-in",
+    "fln_component": "Oral Language Development",
+    "source": "bhashini_web_manual",
+    "verified": false
+  },
+  {
+    "id": "P067",
+    "hindi": "तुम कहाँ जा रहे हो?",
+    "santali": "ᱢ ᱫᱚ ᱚᱠᱟ ᱛᱮᱢ ᱪᱟᱞᱟᱜ ᱠᱟᱱᱟ?",
+    "santali_translit": "Am do oka tem chalag kana?",
+    "category": "check-in",
+    "fln_component": "Oral Language Development",
+    "source": "bhashini_web_manual",
+    "verified": false
+  },
+  {
+    "id": "P068",
+    "hindi": "सुरक्षित रहो।",
+    "santali": "ᱱᱟᱯᱟᱭ ᱛᱮ ᱛᱟᱦᱮᱸᱱ ᱢᱮ",
+    "santali_translit": "Napay te tahen me.",
+    "category": "check-in",
+    "fln_component": "Oral Language Development",
+    "source": "bhashini_web_manual",
+    "verified": false
+  },
+  {
+    "id": "S001",
+    "hindi": "मैम, मैं टॉयलेट जाऊँ?",
+    "santali": "ᱢᱮᱢ, ᱤᱧ ᱨᱟᱪᱟᱧ ᱪᱟᱞᱟᱜ-ᱟ?",
+    "santali_translit": "Ma'am, inj rachanj chalag-a?",
+    "category": "basic-needs",
+    "fln_component": "Oral Language Development",
+    "source": "bhashini_web_manual",
+    "verified": true
+  },
+  {
+    "id": "S002",
+    "hindi": "मैम, पानी पी लूँ?",
+    "santali": "ᱢᱮᱢ, ᱫᱟᱜᱧ ᱧᱩᱭᱟ?",
+    "santali_translit": "Ma'am, dagnj nyuya?",
+    "category": "basic-needs",
+    "fln_component": "Oral Language Development",
+    "source": "bhashini_web_manual",
+    "verified": true
+  },
+  {
+    "id": "S003",
+    "hindi": "मैम, मैं अंदर आऊँ?",
+    "santali": "ᱢᱮᱢ, ᱵᱷᱤᱛᱤᱨᱤᱧ ᱵᱚᱞᱚᱜ-ᱟ?",
+    "santali_translit": "Ma'am, bhitirinj bolog-a?",
+    "category": "permission",
+    "fln_component": "Oral Language Development",
+    "source": "bhashini_web_manual",
+    "verified": true
+  },
+  {
+    "id": "S004",
+    "hindi": "मैम, मैं खाना खा लूँ?",
+    "santali": "ᱢᱮᱢ, ᱡᱚᱢᱟᱜᱧ ᱡᱚᱢᱟ?",
+    "santali_translit": "Ma'am, jomagnj joma?",
+    "category": "basic-needs",
+    "fln_component": "Oral Language Development",
+    "source": "bhashini_web_manual",
+    "verified": true
+  },
+  {
+    "id": "S005",
+    "hindi": "मैम, मेरा हाथ धो दो।",
+    "santali": "ᱢᱮᱢ, ᱛᱤ ᱟᱹᱨᱩᱵ ᱠᱟᱹᱧ ᱢᱮ",
+    "santali_translit": "Ma'am, ti arub kany me.",
+    "category": "basic-needs",
+    "fln_component": "Oral Language Development",
+    "source": "bhashini_web_manual",
+    "verified": true
+  },
+  {
+    "id": "S006",
+    "hindi": "मैम, पानी गिर गया।",
+    "santali": "ᱢᱮᱢ, ᱫᱟᱜ ᱧᱩᱨ ᱮᱱᱟ",
+    "santali_translit": "Ma'am, dag nyur ena.",
+    "category": "classroom-incident",
+    "fln_component": "Oral Language Development",
+    "source": "bhashini_web_manual",
+    "verified": true
+  },
+  {
+    "id": "S007",
+    "hindi": "मैम, मेरी बोतल खोल दो।",
+    "santali": "ᱢᱮᱢ, ᱵᱚᱛᱚᱞ ᱡᱷᱤᱡ ᱟᱹᱧ ᱢᱮ",
+    "santali_translit": "Ma'am, botol jhij any me.",
+    "category": "basic-needs",
+    "fln_component": "Oral Language Development",
+    "source": "bhashini_web_manual",
+    "verified": true
+  },
+  {
+    "id": "S008",
+    "hindi": "मैम, बैग बंद कर दो।",
+    "santali": "ᱢᱮᱢ, ᱵᱮᱜᱽ ᱯᱚᱴᱚᱢ ᱠᱟᱹᱧ ᱢᱮ",
+    "santali_translit": "Ma'am, bag potom kany me.",
+    "category": "basic-needs",
+    "fln_component": "Oral Language Development",
+    "source": "bhashini_web_manual",
+    "verified": true
+  },
+  {
+    "id": "S009",
+    "hindi": "मैम, पेंसिल टूट गई।",
+    "santali": "ᱢᱮᱢ, ᱯᱮᱱᱥᱤᱞ ᱨᱟᱹᱯᱩᱫ ᱮᱱ ᱛᱤᱧᱟ",
+    "santali_translit": "Ma'am, pencil rapud en tinja.",
+    "category": "materials",
+    "fln_component": "Oral Language Development",
+    "source": "bhashini_web_manual",
+    "verified": true
+  },
+  {
+    "id": "S010",
+    "hindi": "मैम, मुझे शार्पनर दे दो।",
+    "santali": "ᱢᱮᱢ, ᱠᱟᱴᱚᱨ / ᱥᱟᱨᱯᱷᱱᱟᱨ ᱮᱢ ᱟᱹᱧ ᱢᱮ",
+    "santali_translit": "Ma'am, cutter / sharpener em any me.",
+    "category": "materials",
+    "fln_component": "Oral Language Development",
+    "source": "bhashini_web_manual",
+    "verified": true
+  },
+  {
+    "id": "S011",
+    "hindi": "मैम, मेरे पास रबर नहीं है।",
+    "santali": "ᱤᱧ ᱴᱷᱮᱱ ᱨᱟᱵᱟᱰ ᱵᱟᱹᱱᱩᱜ-ᱟ",
+    "santali_translit": "Inj then rubber banug-a.",
+    "category": "materials",
+    "fln_component": "Oral Language Development",
+    "source": "bhashini_web_manual",
+    "verified": true
+  },
+  {
+    "id": "S012",
+    "hindi": "मैम, मुझे रंग चाहिए।",
+    "santali": "ᱢᱮᱢ, ᱤᱧ ᱨᱚᱝ ᱮᱢ ᱟᱹᱧ ᱢᱮ",
+    "santali_translit": "Ma'am, inj rong em any me.",
+    "category": "materials",
+    "fln_component": "Foundational Literacy",
+    "source": "bhashini_web_manual",
+    "verified": true
+  },
+  {
+    "id": "S013",
+    "hindi": "मैम, मैंने काम कर लिया।",
+    "santali": "ᱢᱮᱢ, ᱚᱞ ᱠᱮᱫ-ᱟᱹᱧ",
+    "santali_translit": "Ma'am, ol kedy-anj.",
+    "category": "task-completion",
+    "fln_component": "Foundational Literacy",
+    "source": "bhashini_web_manual",
+    "verified": true
+  },
+  {
+    "id": "S014",
+    "hindi": "मैम, देखो मेरा स्टार!",
+    "santali": "ᱢᱮᱢ, ᱧᱮᱞ ᱢᱮ ᱤᱧᱟᱜ ᱤᱯᱤᱞ / ᱥᱴᱟᱨ!",
+    "santali_translit": "Ma'am, nyel me injag ipil / star!",
+    "category": "praise-seeking",
+    "fln_component": "Oral Language Development",
+    "source": "bhashini_web_manual",
+    "verified": true
+  },
+  {
+    "id": "S015",
+    "hindi": "मैम, मुझे नहीं आता।",
+    "santali": "ᱢᱮᱢ, ᱤᱧ ᱵᱟᱹᱧ ᱵᱟᱰᱟᱭᱟ",
+    "santali_translit": "Ma'am, inj banj badaya.",
+    "category": "comprehension-check",
+    "fln_component": "Oral Language Development",
+    "source": "bhashini_web_manual",
+    "verified": true
+  },
+  {
+    "id": "S016",
+    "hindi": "मैम, यह क्या है?",
+    "santali": "ᱢᱮᱢ, ᱱᱚᱣᱟ ᱫᱚ ᱪᱮᱫ ᱠᱟᱱᱟ?",
+    "santali_translit": "Ma'am, nowa do ched kana?",
+    "category": "curiosity",
+    "fln_component": "Oral Language Development",
+    "source": "bhashini_web_manual",
+    "verified": true
+  },
+  {
+    "id": "S017",
+    "hindi": "यह मेरी जगह है!",
+    "santali": "ᱱᱚᱣᱟ ᱫᱚ ᱤᱧᱟᱜ ᱡᱟᱭᱜᱟ ᱠᱟᱱᱟ!",
+    "santali_translit": "Nowa do injag jayga kana!",
+    "category": "peer-interaction",
+    "fln_component": "Social-Emotional Learning",
+    "source": "bhashini_web_manual",
+    "verified": true
+  },
+  {
+    "id": "S018",
+    "hindi": "मुझे भी खेलना है।",
+    "santali": "ᱤᱧ ᱦᱚᱸᱧ ᱮᱱᱮᱡ-ᱟ",
+    "santali_translit": "Inj honj enej-a.",
+    "category": "peer-interaction",
+    "fln_component": "Social-Emotional Learning",
+    "source": "bhashini_web_manual",
+    "verified": true
+  },
+  {
+    "id": "S019",
+    "hindi": "मुझे दे दो।",
+    "santali": "ᱤᱧ ᱮᱢ ᱟᱹᱧ ᱢᱮ",
+    "santali_translit": "Inj em any me.",
+    "category": "peer-interaction",
+    "fln_component": "Social-Emotional Learning",
+    "source": "bhashini_web_manual",
+    "verified": true
+  },
+  {
+    "id": "S020",
+    "hindi": "लो, तुम ले लो।",
+    "santali": "ᱱᱮ, ᱟᱢ ᱦᱟᱛᱟᱣ ᱢᱮ",
+    "santali_translit": "Ne, am hataw me.",
+    "category": "sharing",
+    "fln_component": "Social-Emotional Learning",
+    "source": "bhashini_web_manual",
+    "verified": true
+  },
+  {
+    "id": "S021",
+    "hindi": "चलो, साथ में खेलेंगे।",
+    "santali": "ᱫᱮᱞᱟ, ᱥᱟᱶᱛᱮ ᱵᱚᱱ ᱮᱱᱮᱡ-ᱟ",
+    "santali_translit": "Dela, sawte bon enej-a.",
+    "category": "sharing",
+    "fln_component": "Social-Emotional Learning",
+    "source": "bhashini_web_manual",
+    "verified": true
+  },
+  {
+    "id": "S022",
+    "hindi": "यह खिलौना मेरा है।",
+    "santali": "ᱱᱚᱣᱟ ᱠᱷᱮᱞᱱᱟ ᱫᱚ ᱤᱧᱟᱜ ᱠᱟᱱᱟ",
+    "santali_translit": "Nowa khelna do injag kana.",
+    "category": "peer-interaction",
+    "fln_component": "Social-Emotional Learning",
+    "source": "bhashini_web_manual",
+    "verified": true
+  },
+  {
+    "id": "S023",
+    "hindi": "मुझे तुम्हारी पेंसिल चाहिए।",
+    "santali": "ᱟᱢ ᱯᱮᱱᱥᱤᱞ ᱞᱟᱹᱠᱛᱤ ᱟᱹᱧ ᱠᱟᱱᱟ",
+    "santali_translit": "Amag pencil lakti any kana.",
+    "category": "sharing",
+    "fln_component": "Social-Emotional Learning",
+    "source": "bhashini_web_manual",
+    "verified": true
+  },
+  {
+    "id": "S024",
+    "hindi": "थैंक यू, दोस्त!",
+    "santali": "ᱥᱟᱨᱦᱟᱣ, ᱜᱟᱛᱮ!",
+    "santali_translit": "Sarhaw, gate!",
+    "category": "sharing",
+    "fln_component": "Social-Emotional Learning",
+    "source": "bhashini_web_manual",
+    "verified": true
+  },
+  {
+    "id": "S025",
+    "hindi": "मैम, देखो इसने मुझे मारा!",
+    "santali": "ᱢᱮᱢ, ᱧᱮᱞ ᱢᱮ ᱱᱩᱭ ᱫᱟᱞ ᱠᱤᱫᱤᱧᱟᱭ!",
+    "santali_translit": "Ma'am, nyel me nuy dal kidinjay!",
+    "category": "conflict",
+    "fln_component": "Social-Emotional Learning",
+    "source": "bhashini_web_manual",
+    "verified": true
+  },
+  {
+    "id": "S026",
+    "hindi": "मैम, यह मुझे चिढ़ा रहा है।",
+    "santali": "ᱢᱮᱢ, ᱱᱩᱭ ᱡᱷᱟᱹᱞᱤ ᱟᱹᱧ ᱠᱟᱱᱟᱭ",
+    "santali_translit": "Ma'am, nuy jhali any kanay.",
+    "category": "conflict",
+    "fln_component": "Social-Emotional Learning",
+    "source": "bhashini_web_manual",
+    "verified": true
+  },
+  {
+    "id": "S027",
+    "hindi": "मैम, इसने मेरी पेंसिल ले ली।",
+    "santali": "ᱢᱮᱢ, ᱱᱩᱭ ᱤᱧᱟᱜ ᱯᱮᱱᱥᱤᱞ ᱮ ᱦᱟᱛᱟᱣ ᱠᱮᱫ-ᱟᱭ",
+    "santali_translit": "Ma'am, nuy injag pencil e hataw ked-ay.",
+    "category": "conflict",
+    "fln_component": "Social-Emotional Learning",
+    "source": "bhashini_web_manual",
+    "verified": true
+  },
+  {
+    "id": "S028",
+    "hindi": "मैम, यह जगह नहीं दे रहा।",
+    "santali": "ᱢᱮᱢ, ᱱᱩᱭ ᱡᱟᱭᱜᱟ ᱵᱟᱭ ᱮᱢᱟᱹᱧ ᱠᱟᱱᱟ",
+    "santali_translit": "Ma'am, nuy jayga bay emanj kana.",
+    "category": "conflict",
+    "fln_component": "Social-Emotional Learning",
+    "source": "bhashini_web_manual",
+    "verified": true
+  },
+  {
+    "id": "S029",
+    "hindi": "मुझसे बात मत करो!",
+    "santali": "ᱤᱧ ᱥᱟᱶ ᱟᱞᱚᱢ ᱨᱚᱲᱟ!",
+    "santali_translit": "Inj saw alom rora!",
+    "category": "conflict",
+    "fln_component": "Social-Emotional Learning",
+    "source": "bhashini_web_manual",
+    "verified": true
+  },
+  {
+    "id": "S030",
+    "hindi": "मुझे धक्का मत दो।",
+    "santali": "ᱟᱞᱚᱢ ᱴᱷᱮᱞᱟᱣ ᱤᱧᱟ",
+    "santali_translit": "Alom thelaw inja.",
+    "category": "conflict",
+    "fln_component": "Social-Emotional Learning",
+    "source": "bhashini_web_manual",
+    "verified": true
+  },
+  {
+    "id": "S031",
+    "hindi": "मैम, यह रो रहा है।",
+    "santali": "ᱢᱮᱢ, ᱱᱩᱭ ᱨᱟᱜᱮᱫ-ᱟᱭ",
+    "santali_translit": "Ma'am, nuy raged-ay.",
+    "category": "peer-observation",
+    "fln_component": "Social-Emotional Learning",
+    "source": "bhashini_web_manual",
+    "verified": true
+  },
+  {
+    "id": "S032",
+    "hindi": "मैम, इसने मेरी ड्राइंग ख़राब कर दी।",
+    "santali": "ᱢᱮᱢ, ᱱᱩᱭ ᱤᱧᱟᱜ ᱪᱤᱛᱟᱹᱨ ᱮ ᱵᱟᱹᱲᱤᱡ ᱠᱮᱫ ᱛᱤᱧा",
+    "santali_translit": "Ma'am, nuy injag chitar e barij ked tinja.",
+    "category": "conflict",
+    "fln_component": "Social-Emotional Learning",
+    "source": "bhashini_web_manual",
+    "verified": true
+  },
+  {
+    "id": "S033",
+    "hindi": "मैम, मेरे पेट में दर्द है।",
+    "santali": "ᱢᱮᱢ, ᱤᱧᱟᱜ ᱞᱟᱡ ᱦᱟᱹᱥᱩ ᱤᱧ ᱠᱟᱱᱟ",
+    "santali_translit": "Ma'am, injag laj hasu inj kana.",
+    "category": "wellness",
+    "fln_component": "Oral Language Development",
+    "source": "bhashini_web_manual",
+    "verified": true
+  },
+  {
+    "id": "S034",
+    "hindi": "मैम, मुझे चोट लग गई।",
+    "santali": "ᱢᱮᱢ, ᱤᱧ ᱵᱟᱡᱟᱣ ᱮᱱᱟᱧ",
+    "santali_translit": "Ma'am, inj bajaw enanj.",
+    "category": "wellness",
+    "fln_component": "Oral Language Development",
+    "source": "bhashini_web_manual",
+    "verified": true
+  },
+  {
+    "id": "S035",
+    "hindi": "मैम, मुझे घर जाना है।",
+    "santali": "ᱢᱮᱢ, ᱤᱧ ᱚᱲᱟᱜ ᱪᱟᱞᱟᱜ ᱥᱟᱱᱟ ᱤᱧ ᱠᱟᱱᱟ",
+    "santali_translit": "Ma'am, inj orag chalag sana inj kana.",
+    "category": "wellness",
+    "fln_component": "Oral Language Development",
+    "source": "bhashini_web_manual",
+    "verified": true
+  },
+  {
+    "id": "S036",
+    "hindi": "मैम, मुझे डर लग रहा है।",
+    "santali": "ᱢᱮᱢ, ᱤᱧ ᱵᱚᱛᱚᱨ ᱤᱧ ᱠᱟᱱᱟ",
+    "santali_translit": "Ma'am, inj botor inj kana.",
+    "category": "wellness",
+    "fln_component": "Social-Emotional Learning",
+    "source": "bhashini_web_manual",
+    "verified": true
+  },
+  {
+    "id": "S037",
+    "hindi": "मैं बहुत खुश हूँ!",
+    "santali": "ᱤᱧ ᱟᱹᱰᱤᱧ ᱨᱟᱹᱥᱠᱟᱹ ᱟᱠᱟᱱᱟ!",
+    "santali_translit": "Inj adinj raska akana!",
+    "category": "emotion",
+    "fln_component": "Social-Emotional Learning",
+    "source": "bhashini_web_manual",
+    "verified": true
+  },
+  {
+    "id": "S038",
+    "hindi": "मैम, मुझे नींद आ रही है।",
+    "santali": "ᱢᱮᱢ, ᱤᱧ ᱡᱟᱹᱯᱤᱫ ᱥᱟᱱᱟ ᱤᱧ ᱠᱟᱱᱟ",
+    "santali_translit": "Ma'am, inj japid sana inj kana.",
+    "category": "wellness",
+    "fln_component": "Oral Language Development",
+    "source": "bhashini_web_manual",
+    "verified": true
+  },
+  {
+    "id": "S039",
+    "hindi": "मुझे भूख लगी है।",
+    "santali": "ᱤᱧ ᱨᱮᱸᱜᱮᱡ ᱤᱧ ᱠᱟᱱᱟ",
+    "santali_translit": "Inj rengej inj kana.",
+    "category": "basic-needs",
+    "fln_component": "Oral Language Development",
+    "source": "bhashini_web_manual",
+    "verified": true
+  },
+  {
+    "id": "S040",
+    "hindi": "मैम, मुझे उल्टी आ रही है।",
+    "santali": "ᱢᱮᱢ, ᱤᱧ ᱩᱞᱟᱹ ᱥᱟᱱᱟ ᱤᱧ ᱠᱟᱱᱟ",
+    "santali_translit": "Ma'am, inj ula sana inj kana.",
+    "category": "wellness",
+    "fln_component": "Oral Language Development",
+    "source": "bhashini_web_manual",
+    "verified": true
+  },
+  {
+    "id": "S041",
+    "hindi": "मैम, छुट्टी कब होगी?",
+    "santali": "ᱢᱮᱢ, ᱪᱷुᱴᱤ ᱛᱤᱥ ᱦᱩᱭᱩᱜ-ᱟ?",
+    "santali_translit": "Ma'am, chuti tis huyug-a?",
+    "category": "routine",
+    "fln_component": "Oral Language Development",
+    "source": "bhashini_web_manual",
+    "verified": true
+  },
+  {
+    "id": "S042",
+    "hindi": "मेरे पापा आ गए!",
+    "santali": "ᱤᱧ ᱵᱟᱵᱟ ᱦᱮᱡ ᱮᱱᱟᱭ!",
+    "santali_translit": "Inj baba hej enay!",
+    "category": "routine",
+    "fln_component": "Oral Language Development",
+    "source": "bhashini_web_manual",
+    "verified": true
+  },
+  {
+    "id": "S043",
+    "hindi": "मेरी मम्मी कहाँ है?",
+    "santali": "ᱤᱧ ᱟᱭᱳ ᱚᱠᱟᱨᱮ ᱢᱮᱱᱟᱜ ᱮᱭᱟ?",
+    "santali_translit": "Inj ayo okare menag eya?",
+    "category": "routine",
+    "fln_component": "Oral Language Development",
+    "source": "bhashini_web_manual",
+    "verified": true
+  },
+  {
+    "id": "S044",
+    "hindi": "मैम, मैं अपना बैग पैक कर लूँ?",
+    "santali": "ᱢᱮᱢ, ᱤᱧ ᱵᱮᱜᱽᱧ ᱥᱟᱢᱴᱟᱣ ᱞᱮᱜᱮ?",
+    "santali_translit": "Ma'am, inj bagnj samtaw lege?",
+    "category": "routine",
+    "fln_component": "Oral Language Development",
+    "source": "bhashini_web_manual",
+    "verified": true
+  },
+  {
+    "id": "S045",
+    "hindi": "बाय मैम, कल मिलेंगे!",
+    "santali": "ᱡᱚᱦᱟᱨ ᱢᱮᱢ, ᱜᱟᱯᱟ ᱵᱚᱱ ᱧᱟᱯᱟᱢᱟ!",
+    "santali_translit": "Johar ma'am, gapa bon nyapama!",
+    "category": "routine",
+    "fln_component": "Oral Language Development",
+    "source": "bhashini_web_manual",
+    "verified": true
+  },
+  {
+    "id": "S046",
+    "hindi": "मैम, आज मेरी दीदी नहीं आई।",
+    "santali": "ᱢᱮᱢ, ᱛᱮᱦᱮᱧ ᱤᱧ ᱫᱟᱹᱭ ᱵᱟᱭ ᱦᱮᱡ ᱟᱠᱟᱱᱟ",
+    "santali_translit": "Ma'am, tehenj inj day bay hej akana.",
+    "category": "routine",
+    "fln_component": "Oral Language Development",
+    "source": "bhashini_web_manual",
+    "verified": true
+  },
+  {
+    "id": "S047",
+    "hindi": "मैम, मैंने नई ड्रेस पहनी है।",
+    "santali": "ᱢᱮᱢ, ᱤᱧ ᱱᱟᱣᱟ ᱠᱤᱪᱨᱤᱡᱧ ᱦᱚᱨᱚᱜ ᱟᱠᱟᱫ-ᱟ",
+    "santali_translit": "Ma'am, inj nawa kichrijnj horog akad-a.",
+    "category": "expression",
+    "fln_component": "Oral Language Development",
+    "source": "bhashini_web_manual",
+    "verified": true
+  },
+  {
+    "id": "S048",
+    "hindi": "आज मेरा बर्थडे है!",
+    "santali": "ᱛᱮᱦᱮᱧ ᱫᱚ ᱤᱧᱟᱜ ᱡᱟᱱᱟᱢ ᱢᱟᱦᱟᱸ ᱠᱟᱱᱟ!",
+    "santali_translit": "Tehenj do injag janam mahan kana!",
+    "category": "expression",
+    "fln_component": "Oral Language Development",
+    "source": "bhashini_web_manual",
+    "verified": true
+  },
+  {
+    "id": "S049",
+    "hindi": "मैम, मुझे कविता गानी है।",
+    "santali": "ᱢᱮᱢ, ᱤᱧ ᱥᱮᱨᱮᱧ ᱥᱟᱱᱟ ᱤᱧ ᱠᱟᱱᱟ",
+    "santali_translit": "Ma'am, inj serenj sana inj kana.",
+    "category": "expression",
+    "fln_component": "Foundational Literacy",
+    "source": "bhashini_web_manual",
+    "verified": true
+  },
+  {
+    "id": "S050",
+    "hindi": "मैम, बिजली चली गई।",
+    "santali": "ᱢᱮᱢ, ᱢᱟᱨᱥᱟᱞ ᱵᱚᱱᱫᱚ ᱮᱱᱟ",
+    "santali_translit": "Ma'am, marsal bondo ena.",
+    "category": "classroom-incident",
+    "fln_component": "Oral Language Development",
+    "source": "bhashini_web_manual",
+    "verified": true
+  },
+  {
+    "id": "S051",
+    "hindi": "मैम, मुझे समझ नहीं आया।",
+    "santali": "ᱢᱮᱢ, ᱤᱧ ᱵᱟᱹᱧ ᱵᱩᱡᱷᱟᱹᱣ ᱞᱮᱫ-ᱟ",
+    "santali_translit": "Ma'am, inj banj bujhaw led-a.",
+    "category": "comprehension-check",
+    "fln_component": "Oral Language Development",
+    "source": "bhashini_web_manual",
+    "verified": true
+  },
+  {
+    "id": "S052",
+    "hindi": "मैम, दोबारा बोलो।",
+    "santali": "ᱢᱮᱢ, ᱟᱨ ᱢᱤᱫᱫᱷᱟᱣ ᱢᱮᱱ ᱢᱮ",
+    "santali_translit": "Ma'am, aar middhaw men me.",
+    "category": "comprehension-check",
+    "fln_component": "Oral Language Development",
+    "source": "bhashini_web_manual",
+    "verified": true
+  }
+]
